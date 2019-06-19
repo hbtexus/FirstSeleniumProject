@@ -1,0 +1,95 @@
+Today is HTML class.
+HTML is a language but not programing.
+Hypertext Markup Language
+
+We have a front-end that consist of HTML, CSS and JavaScript.
+
+Java and JavaScript are totally different. 
+
+HTML is a skeleton of website
+CSS is for design (colors, shadows, paddings, margin )
+
+JavaScript for actions (behavior) - alerts, AJAX..
+
+JS can be used for back-end too, for example NodeJS is platform that allows develop beck-end side of web application. 
+
+
+IN my project we had bunch of applications. WE used HTML, CSS, JavaScript (JQuery) for front-end
+
+For back-end we used JAVA EE only 
+
+To see source code of the page, press F12 or 
+right click -> inspect
+
+So html files have extension .html
+
+Let's say in java we have files .java
+
+
+Latest version is HTML5
+
+DOWNLOAD 
+https://www.sublimetext.com/
+
+You can use Eclipse, or Intellij but you need to download add-on (extension) that will provide auto complete support. Otherwise, it's gonna be. very hard to type.
+
+Please use sublime.  
+
+
+view -> syntax -> select HTML 
+
+<!DOCTYPE html>  this declaration represents document type. It helps browser to display web pages correctly.
+
+mostly tags have to parts: opening tag <html> and closing tag </html> Whatever is inside will be content.
+######################
+
+
+Once you wrote some code, save it first then refresh the page. To save - click command + s
+
+h1..h6 means heading. h1 is the biggest, h6 is the smallest, in terms of text size. 
+
+<meta charset="utf-8"> this one is to text encoding.
+
+
+https://www.w3schools.com/ for HTML/CSS/JAVASCRIPT
+
+IN the body we have a main content. In the head we have a title, meta data and imports. For example if we need to import javascript or css, we will specify it in the head.   
+
+HTML document is made of tags.
+
+<html> is a root element
+
+we need opening part <html> and closing </html>
+
+in the <body> we will have a main content.
+
+Once you write some code, save it and refresh the web page to see updated code. 
+
+<p> --> for paragraph
+<b> --> for bold text
+<i> --> for italic text
+<strong> to make text bold
+<br> --> stands for brake, and then it moves content on the new line. ///There is no </br>
+
+<hr> --> horizontal line
+
+in java we use // or /* **/
+in html  <!-- -->
+
+BREAK TILL 9:14 
+
+<img src="" alt=""> for image, src for image path, alt - for alternative message, in case image will not load.
+
+<ol> for ordered list, <ul> - unordered list. Every element inside a list, must be inside <li> element/tag
+
+ style="background: #ef9a45"
+
+ style attribute stands for styling. We can create separate css file for styling, or we can use this tag to list styling. 
+
+ How to find color codes? Look for color picker in google. You can use rgb or hexadecimal format.
+ <a href="some web site">Click ME!</a> --> tag stands for hyper links. href attribute will contain link.  
+
+
+target="_blank" will open in the new window
+
+<table> tag for tables then we have <tr> for rows and <td> for columns
